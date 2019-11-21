@@ -1,0 +1,15 @@
+E:/Development/LtMart/LazOpenApi/bin/Debug/netcoreapp3.0/LazOpenApi.deps.json
+E:/Development/LtMart/LazOpenApi/bin/Debug/netcoreapp3.0/LazOpenApi.dll
+E:/Development/LtMart/LazOpenApi/bin/Debug/netcoreapp3.0/LazOpenApi.pdb
+E:/Development/LtMart/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.AssemblyInfoInputs.cache
+E:/Development/LtMart/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.AssemblyInfo.cs
+E:/Development/LtMart/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.dll
+E:/Development/LtMart/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.pdb
+/LazOpenApi/bin/Debug/netcoreapp3.0/LazOpenApi.deps.json
+/LazOpenApi/bin/Debug/netcoreapp3.0/LazOpenApi.dll
+/LazOpenApi/bin/Debug/netcoreapp3.0/LazOpenApi.pdb
+/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.csprojAssemblyReference.cache
+/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.AssemblyInfoInputs.cache
+/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.AssemblyInfo.cs
+/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.dll
+/LazOpenApi/obj/Debug/netcoreapp3.0/LazOpenApi.pdb
